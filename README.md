@@ -1,1 +1,1 @@
-Code used for pre-training and fine-tuning the models described in [Leveraging sequence-to-sequence models for semantic annotation of Dutch pathology reports]([https://pages.github.com/](https://doi.org/10.1016/j.jpi.2025.100534))
+Code used for pre-training and fine-tuning the models described in [Leveraging sequence-to-sequence models for semantic annotation of Dutch pathology reports](https://doi.org/10.1016/j.jpi.2025.100534).
